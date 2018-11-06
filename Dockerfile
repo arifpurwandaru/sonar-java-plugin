@@ -1,5 +1,5 @@
 FROM sonarqube:6.1
-MAINTAINER your_name Reza Mohammad Darojad rezamohammad.darojad@mitrais.com
+MAINTAINER Arif Nazar Purwandaru arifnazar.purwandaru@mitrais.com
 USER root
 
 RUN chmod +w /opt/sonarqube/conf/sonar.properties
